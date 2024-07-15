@@ -1,5 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas Rial
+<div class="tenor-gif-embed" data-postid="13852725" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kirito-sao-sword-art-online-hi-hello-gif-13852725">Kirito Sao GIF</a>from <a href="https://tenor.com/search/kirito-gifs">Kirito GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### About Me / Sobre Mim
 I am a 6th-semester Computer Science student with a strong background in Accounting. I am a technology enthusiast, passionate about drawing and investing money in the stock market. I have some knowledge in cybersecurity. I love exploring new technologies and applying them to innovative projects.
