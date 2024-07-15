@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas Rial
 
-About Me / Sobre Mim
+### About Me / Sobre Mim
 I am a 6th-semester Computer Science student with a strong background in Accounting. I am a technology enthusiast, passionate about drawing and investing money in the stock market. I have some knowledge in cybersecurity. I love exploring new technologies and applying them to innovative projects.
 
 Sou um estudante de Ciência da Computação no 6º período, com uma formação sólida em Contabilidade. Sou um entusiasta da tecnologia, apaixonado por desenhar e investir dinheiro na bolsa de valores. Tenho um pouco de conhecimento em cibersegurança. Adoro explorar novas tecnologias e aplicá-las em projetos inovadores.
