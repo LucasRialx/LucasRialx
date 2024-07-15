@@ -1,6 +1,4 @@
-## Hello! Welcome to my Github profile. 👽👍
-
-## My name is Lucas Rial, and it is a great pleasure to have you visit my profile.
+## Hello! Welcome to my Github profile.  My name is Lucas Rial, and it is a great pleasure to have you visit my profile. 👽👍
 
 
 
