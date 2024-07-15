@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas Rial
 
-![kirito-sao](https://github.com/user-attachments/assets/90dc89b0-e7c0-476f-b39d-13ec011f985d)
+< ![kirito-sao](https://github.com/user-attachments/assets/90dc89b0-e7c0-476f-b39d-13ec011f985d) width="55" height="55" />
 
 
 ### About Me / Sobre Mim
