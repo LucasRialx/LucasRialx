@@ -1,4 +1,5 @@
-## Hello! Welcome to my Github profile. 👽👍
+## Hello! Welcome to my Github profile. 👽👍👍<img src="https://github.com/user-attachments/assets/90dc89b0-e7c0-476f-b39d-13ec011f985d" alt="kirito-sao" width="180" />
+
 ### My name is Lucas Rial
 
 <img src="https://github.com/user-attachments/assets/90dc89b0-e7c0-476f-b39d-13ec011f985d" alt="kirito-sao" width="180" />
