@@ -8,16 +8,14 @@ Sejam bem vindos ao meu Perfil!
 Sou um estudante de Ciência da Computação no 6º período, com uma formação sólida em Contabilidade. Sou um entusiasta da tecnologia, apaixonado por desenhar e investir dinheiro na bolsa de valores. Adoro explorar novas tecnologias e aplicá-las em projetos inovadores.
 
 ### Habilidades
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="55" height="55" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>
 
-- **Programação:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Flask, Node.js, Bootstrap
-- **Ferramentas:** Git, VS Code, Jupyter Notebook
-- **Outras:** Análise de dados, Finanças, Desenho
-
-### Aprimorando meu Conhecimento
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="55" height="55" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>
-          
+### Contatos
+<div>
+<a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/lucasrialx?igsh=MWE3dTNhbjF4eWZ3bg%3D%3D&utm_source=qr)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "prompt.rial@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/lucas-rial-7480311b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
           
           
 
