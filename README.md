@@ -1,7 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas Rial
 
-https://github.com/user-attachments/assets/9ee64cf2-94ea-4dc0-bea2-b21c31ee5173
+![kirito-sao](https://github.com/user-attachments/assets/90dc89b0-e7c0-476f-b39d-13ec011f985d)
+
 
 ### About Me / Sobre Mim
 I am a 6th-semester Computer Science student with a strong background in Accounting. I am a technology enthusiast, passionate about drawing and investing money in the stock market. I have some knowledge in cybersecurity. I love exploring new technologies and applying them to innovative projects.
