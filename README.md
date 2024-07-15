@@ -26,7 +26,7 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRialx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>          
 
-# Obrigado pela visita! :)
+## Obrigado pela visita! :)
 <img src="https://github.com/user-attachments/assets/90dc89b0-e7c0-476f-b39d-13ec011f985d" alt="kirito-sao" width="180" />
 
 <!--
