@@ -14,9 +14,9 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 - **Ferramentas:** Git, VS Code, Jupyter Notebook
 - **Outras:** Análise de dados, Finanças, Desenho
 
-### Estudando Atualmente
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+### Aprimorando meu Conhecimento
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+          
           
           
 
