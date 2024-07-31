@@ -24,7 +24,7 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 </div>          
 
 ## Obrigado pela visita! :)
-<img src="https://github.com/user-attachments/assets/90dc89b0-e7c0-476f-b39d-13ec011f985d" alt="kirito-sao" width="180" />
+
 
 <!--
 **LucasRialx/LucasRialx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
