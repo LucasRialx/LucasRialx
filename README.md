@@ -20,5 +20,5 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 
 <div>
 <a href="https://github.com/LucasRialx">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRial&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRialx&layout=compact&langs_count=7&theme=dracula"/>
 </div>          
