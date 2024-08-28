@@ -33,7 +33,7 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 </div> 
 
 <div align="center">
-  <h3><b> 🏆 GitHub Profile Trophy 🏆 </b></h3>
+  <h3><b> 🏆 GitHub Trophy 🏆 </b></h3>
 </div>
 
 <p align="center">
@@ -49,7 +49,7 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 </p>
 
 <div align="center">
-  <h3><b> 👽 Profile Visitor Count 👽 </b></h3>
+  <h3><b> 👽 Visitor Count 👽 </b></h3>
 </div>
 
 <p align="center">
