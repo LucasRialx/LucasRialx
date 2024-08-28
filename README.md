@@ -30,8 +30,11 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 
 <div align="center">
   
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=LucasRialx&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/LucasRialx)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasRialx&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 </div> 
+
+
 
 <div align="center">
   <h3><b> 🏆 GitHub Trophy 🏆 </b></h3>
