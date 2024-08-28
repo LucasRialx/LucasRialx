@@ -30,7 +30,7 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasRialx&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasRialx&theme=dracula)](https://github.com/LucasRialx)
 
 </div> 
 
