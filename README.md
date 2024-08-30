@@ -24,11 +24,11 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9b324cb0-2441-4664-8b9e-127e0ae7ca64" style="width: 50px; height: 50px;" />
-  <img src="https://github.com/user-attachments/assets/bd93d779-34a9-4f86-b6c5-96bad0b86034" style="width: 50px; height: 50px;" />
-  <img src="https://github.com/user-attachments/assets/dbdcfef3-0a23-4e89-99ef-80021a5ee8a3" style="width: 50px; height: 50px;" />
-  <img src="https://github.com/user-attachments/assets/ae0290a5-d760-40cc-8e53-fcec42740cf2" style="width: 50px; height: 50px;" />
-  <img src="https://github.com/user-attachments/assets/97f61f6d-3312-4640-ab6e-43820b167780" style="width: 50px; height: 50px;" />
+  <img src="https://github.com/user-attachments/assets/9b324cb0-2441-4664-8b9e-127e0ae7ca64" style="width: 57px; height: 57px;" />
+  <img src="https://github.com/user-attachments/assets/bd93d779-34a9-4f86-b6c5-96bad0b86034" style="width: 57px; height: 57px;" />
+  <img src="https://github.com/user-attachments/assets/dbdcfef3-0a23-4e89-99ef-80021a5ee8a3" style="width: 57px; height: 57px;" />
+  <img src="https://github.com/user-attachments/assets/ae0290a5-d760-40cc-8e53-fcec42740cf2" style="width: 57px; height: 57px;" />
+  <img src="https://github.com/user-attachments/assets/97f61f6d-3312-4640-ab6e-43820b167780" style="width: 57px; height: 57px;" />
 </div>
 
 
