@@ -20,22 +20,17 @@ Sou um estudante de Ciência da Computação no 6º período, com uma formação
 </div>
 
 <div align="center">
-  <h2><b>  Ferramentas / Tools </b></h2>
+  <h2><b>  Softwares / Ferramentas </b></h2>
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" class="icon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" class="icon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" class="icon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" class="icon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" class="icon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" class="icon" />
+  <img src="https://github.com/user-attachments/assets/9b324cb0-2441-4664-8b9e-127e0ae7ca64" style="width: 50px; height: 50px;" />
+  <img src="https://github.com/user-attachments/assets/bd93d779-34a9-4f86-b6c5-96bad0b86034" style="width: 50px; height: 50px;" />
+  <img src="https://github.com/user-attachments/assets/dbdcfef3-0a23-4e89-99ef-80021a5ee8a3" style="width: 50px; height: 50px;" />
+  <img src="https://github.com/user-attachments/assets/ae0290a5-d760-40cc-8e53-fcec42740cf2" style="width: 50px; height: 50px;" />
+  <img src="https://github.com/user-attachments/assets/97f61f6d-3312-4640-ab6e-43820b167780" style="width: 50px; height: 50px;" />
 </div>
 
-.icon {
-  width: 55px;
-  height: 55px;
-}
 
 
 
