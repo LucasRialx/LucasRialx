@@ -8,7 +8,6 @@
 </div>
 I am a 7th-semester Computer Science student with a strong background in Accounting. I am a technology enthusiast, passionate about investing in the stock market. I have some knowledge in cybersecurity. I love exploring new technologies and applying them to innovative projects.
 
-Sou um estudante de Ciência da Computação no 7º período, com uma formação sólida em Contabilidade. Sou um entusiasta da tecnologia, apaixonado por investir na bolsa de valores e em CriptoAtivos. Tenho um pouco de conhecimento em cibersegurança. Adoro explorar novas tecnologias e aplicá-las em projetos inovadores.
 
 <div align="center">
   <h2><b>  Skills / Habilidades </b></h2>
