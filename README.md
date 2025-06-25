@@ -31,6 +31,8 @@ I am a 7th-semester Computer Science student with a strong background in Account
 </div>
 
 
+### 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRialx&layout=compact&langs_count=8&theme=tokyonight)
 
 
 <div align="center">
