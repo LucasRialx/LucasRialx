@@ -45,7 +45,6 @@ I am a 7th-semester Computer Science student with a strong background in Account
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasRialx&theme=dracula)](https://github.com/LucasRialx)
 
 </div> 
 
