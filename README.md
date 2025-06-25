@@ -31,7 +31,9 @@ I am a 7th-semester Computer Science student with a strong background in Account
 </div>
 
 <div align="center">
+  <h2><b>  Principais Linguagens </b></h2>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRialx&layout=compact&langs_count=8&theme=tokyonight)
+
 </div>
 
 
