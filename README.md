@@ -30,9 +30,9 @@ I am a 7th-semester Computer Science student with a strong background in Account
   <img src="https://github.com/user-attachments/assets/97f61f6d-3312-4640-ab6e-43820b167780" style="width: 57px; height: 57px;" />
 </div>
 
-
-### 📊 Linguagens mais usadas
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRialx&layout=compact&langs_count=8&theme=tokyonight)
+</div>
 
 
 <div align="center">
