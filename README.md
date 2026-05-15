@@ -1,4 +1,3 @@
-
 <div align="center">
   <h2><b>  Hey there! Welcome to my Github profile. I'm Lucas Rial, and I'm thrilled to have you here. Feel free to look around! 👽👍 </b></h2>
 
@@ -81,5 +80,3 @@ I am a 7th-semester Computer Science student with a strong background in Account
     alt="Número de visitantes no perfil"
   />
 </p>
-
-         
