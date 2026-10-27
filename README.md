@@ -9,8 +9,8 @@ Sou formado em **Ciência da Computação** e **Contabilidade**, uma combinaçã
 
 Atualmente, atuo como Contador durante o dia e, à noite, mergulho no desenvolvimento de software. Meu foco principal é criar **automações corporativas em Python** para otimizar processos em empresas que utilizam ERPs da **TOTVS (RM e PROTHEUS)**. 
 
-* 💡 **O que eu faço:** Desenvolvimento Web, Integrações de Sistemas, Automação de Tarefas e estudos aplicados em Inteligência Artificial.
-* 🎯 **Meu objetivo:** Transformar rotinas burocráticas e complexas em processos eficientes, rápidos e inteligentes.
+- 💡 **O que eu faço:** Desenvolvimento Web, Integrações de Sistemas, Automação de Tarefas e estudos aplicados em Inteligência Artificial.
+- 🎯 **Meu objetivo:** Transformar rotinas burocráticas e complexas em processos eficientes, rápidos e inteligentes.
 
 ---
 
@@ -28,7 +28,7 @@ Atualmente, atuo como Contador durante o dia e, à noite, mergulho no desenvolvi
 **Bancos de Dados & Especialidades:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TOTVS_ERP-(RM_&_PROTHEUS)-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TOTVS_ERP-(RM_%26_PROTHEUS)-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Integração_IA-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
@@ -36,13 +36,11 @@ Atualmente, atuo como Contador durante o dia e, à noite, mergulho no desenvolvi
 
 ## 📊 Estatísticas do GitHub / Stats
 
-
-
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
-    <img src="https://github-profile-trophy.vercel.app/?username=LucasRialx&column=8&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LucasRialx&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
   </a>
 </div>
 
